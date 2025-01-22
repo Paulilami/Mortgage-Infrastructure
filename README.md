@@ -2,6 +2,9 @@
 
 Enable buy-now-pay-later for your marketplace in minutes. Our protocol handles all the mortgage logistics while you focus on your core marketplace experience. 
 
+### Update Jan.2025
+I'm currently in the process of integrating a flag as bytes32 value to initialze the mortgages feature, making it much simpler to integrate. 
+
 ## Why use on-chain mortgages? 
 
 - 🚀 Increase transaction volume by making expensive assets accessible
